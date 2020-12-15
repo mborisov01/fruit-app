@@ -1,0 +1,22 @@
+{
+  "name": "fruit-app",
+  "version": "1.0.0",
+  "description": "learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mborisov01/fruit-app.git"
+  },
+  "author": "mborisov01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mborisov01/fruit-app/issues"
+  },
+  "homepage": "https://github.com/mborisov01/fruit-app#readme",
+  "dependencies": {
+    "slugify": "^1.4.6"
+  }
+}
